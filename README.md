@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varunprasad T</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://free-vectors.net/_ph/1/2/642801709.jpg">
+ <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&position=2&from_view=keyword">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunprasadt&label=Profile%20views&color=0e75b6&style=flat" alt="varunprasadt" /> </p>
 
